@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PrintServiceBM</string>
+    <string name="service_name">Print Service BM</string>
+</resources>
